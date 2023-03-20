@@ -97,7 +97,11 @@ Notez l'utilisation de multi: true, qui permet d'ajouter plusieurs interceptors 
 
 ### Conclusion
 
-Ce projet démontre l'utilisation des interceptors Angular pour gérer les erreurs, ajouter des tokens d'authentification et journaliser les requêtes HTTP. Les interceptors sont un outil puissant pour améliorer et centraliser la gestion des communications HTTP dans les applications Angular.N'hésitez pas à explorer davantage ce projet et à ajouter d'autres interceptors pour répondre à des besoins spécifiques. Les interceptors Angular offrent de nombreuses possibilités pour optimiser et personnaliser le comportement des requêtes HTTP.ContribuerLes contributions à ce projet sont les bienvenues. Si vous souhaitez ajouter de nouveaux exemples d'interceptors ou améliorer ceux existants, n'hésitez pas à soumettre une pull request.
+Ce projet démontre l'utilisation des interceptors Angular pour gérer les erreurs, ajouter des tokens d'authentification et journaliser les requêtes HTTP. Les interceptors sont un outil puissant pour améliorer et centraliser la gestion des communications HTTP dans les applications Angular.N'hésitez pas à explorer davantage ce projet et à ajouter d'autres interceptors pour répondre à des besoins spécifiques. Les interceptors Angular offrent de nombreuses possibilités pour optimiser et personnaliser le comportement des requêtes HTTP.
+
+### Contribuer
+
+Les contributions à ce projet sont les bienvenues. Si vous souhaitez ajouter de nouveaux exemples d'interceptors ou améliorer ceux existants, n'hésitez pas à soumettre une pull request.
 
 ### Licence
 
