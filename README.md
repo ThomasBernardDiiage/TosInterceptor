@@ -69,8 +69,11 @@ Importez l'interceptor dans le fichier app.module.ts :
 import { ErrorInterceptor } from './interceptors/error.interceptor';
 import { AuthInterceptor } from './interceptors/auth.interceptor';
 import { LoggingInterceptor } from './interceptors/logging.interceptor';
+```
+
 
 Ajoutez l'interceptor à la liste des providers en utilisant HTTP_INTERCEPTORS et useClass :
+
 ```typescript
 
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
